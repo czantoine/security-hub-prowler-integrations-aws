@@ -60,7 +60,7 @@ With these configurations in place, you'll be able to deploy your ECS task to a 
 
 ## Usage
 
-### Terreform
+### Terraform
 
 To use Terraform with AWS, you can follow these steps:
 
@@ -121,7 +121,7 @@ aws2-wrap --profile <aws_profile> terraform destroy --auto-approve
 To delete the CloudFormation stack and all resources created by the template, run the following AWS CLI command:
 
 ``` bash
-aws cloudformation delete-stack --stack-name prowler-stack
+aws cloudformation delete-stack --stack-name prowler-stack --profile <aws_profile>
 ```
 
 ## Note
