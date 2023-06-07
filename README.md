@@ -6,6 +6,7 @@
 	<a href="https://github.com/Yris-ops/security-hub-prowler-integrations-aws"><img alt="Stars" src="https://img.shields.io/github/stars/Yris-ops/security-hub-prowler-integrations-aws"></a>
 	<a href="https://github.com/Yris-ops/security-hub-prowler-integrations-aws"><img alt="Download" src="https://img.shields.io/github/downloads/Yris-ops/security-hub-prowler-integrations-aws/total"></a>
 	<a href="https://twitter.com/cz_antoine"><img alt="Twitter" src="https://img.shields.io/twitter/follow/cz_antoine?style=social"></a>
+	<a href="https://www.linkedin.com/in/antoine-cichowicz-837575b1"><img alt="Linkedin" src="https://img.shields.io/badge/-Antoine-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
 <p>
 
 Use AWS Fargate and Prowler to send AWS Service security configuration findings to Security Hub.
